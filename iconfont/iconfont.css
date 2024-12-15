@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4571055 */
+  src: url('iconfont.woff2?t=1734266542847') format('woff2'),
+       url('iconfont.woff?t=1734266542847') format('woff'),
+       url('iconfont.ttf?t=1734266542847') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bofang:before {
+  content: "\e624";
+}
+
+.icon-weixin:before {
+  content: "\e66f";
+}
+
+.icon-chuantongjixiangwenyang17:before {
+  content: "\e74a";
+}
+
+.icon-jiantou-xia:before {
+  content: "\e609";
+}
+
+.icon-jiantou-shang:before {
+  content: "\e60a";
+}
+
+.icon-sousuo:before {
+  content: "\e7b7";
+}
+
+.icon-dingwei:before {
+  content: "\e63c";
+}
+
+.icon-bbl:before {
+  content: "\e626";
+}
+
+.icon-bk-tl:before {
+  content: "\e600";
+}
+
+.icon-jiantou:before {
+  content: "\e63d";
+}
+
+.icon-biankuang:before {
+  content: "\e65c";
+}
+
+.icon-biankuang4:before {
+  content: "\e601";
+}
+
+.icon-biankuang4-copy:before {
+  content: "\e602";
+}
+
+.icon-biankuang41:before {
+  content: "\e603";
+}
+

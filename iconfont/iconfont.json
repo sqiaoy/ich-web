@@ -1,0 +1,107 @@
+{
+  "id": "4571055",
+  "name": "非遗",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2674474",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "785052",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "35593294",
+      "name": "传统吉祥纹样17",
+      "font_class": "chuantongjixiangwenyang17",
+      "unicode": "e74a",
+      "unicode_decimal": 59210
+    },
+    {
+      "icon_id": "21093451",
+      "name": "箭头-下",
+      "font_class": "jiantou-xia",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "21093460",
+      "name": "箭头-上",
+      "font_class": "jiantou-shang",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "1719342",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e7b7",
+      "unicode_decimal": 59319
+    },
+    {
+      "icon_id": "975628",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "13989414",
+      "name": "边框",
+      "font_class": "bbl",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "14888215",
+      "name": "边框",
+      "font_class": "bk-tl",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "17498907",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "18593900",
+      "name": "边框",
+      "font_class": "biankuang",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "27153496",
+      "name": "边框",
+      "font_class": "biankuang4",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "27153508",
+      "name": "边框",
+      "font_class": "biankuang4-copy",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "31109858",
+      "name": "边框-copy",
+      "font_class": "biankuang41",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
